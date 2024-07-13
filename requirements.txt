@@ -1,0 +1,7 @@
+requests==2.32.3
+bs4==0.0.2
+selenium==4.22.0
+pandas==2.2.2
+matplotlib==3.9.1
+seaborn==0.13.2
+python-dotenv==1.0.1
